@@ -34,7 +34,7 @@ src/APL/sleep.o: ../src/APL/sleep.c \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/core_cmInstr.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/core_cmFunc.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/system_SKEAZ1284.h \
- E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/APL/acc.h \
+ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/acc.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/HAL/gpio.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/assert.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/derivative.h \
@@ -47,7 +47,11 @@ src/APL/sleep.o: ../src/APL/sleep.c \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/HAL/systick.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/HAL/uart.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/console.h \
- D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/ewl_misra_types.h
+ D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/ewl_misra_types.h \
+ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/DDL/tda5235.h \
+ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/common.h \
+ D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/stddef.h \
+ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/crc.h
 
 D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/lib_c99.prefix:
 
@@ -119,7 +123,7 @@ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDispl
 
 E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/system_SKEAZ1284.h:
 
-E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/APL/acc.h:
+E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/acc.h:
 
 E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/HAL/gpio.h:
 
@@ -146,3 +150,11 @@ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDispl
 E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/console.h:
 
 D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/ewl_misra_types.h:
+
+E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/DDL/tda5235.h:
+
+E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/common.h:
+
+D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/stddef.h:
+
+E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/crc.h:

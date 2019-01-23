@@ -34,7 +34,7 @@ src/APL/learning.o: ../src/APL/learning.c \
  D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/string.h \
  D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/cstring \
  D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/string_api.h \
- E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/APL/acc.h \
+ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/acc.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/APL/fsm.h
 
 D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/lib_c99.prefix:
@@ -107,6 +107,6 @@ D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include
 
 D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/string_api.h:
 
-E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/APL/acc.h:
+E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/acc.h:
 
 E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/APL/fsm.h:

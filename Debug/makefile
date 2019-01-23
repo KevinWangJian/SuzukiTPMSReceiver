@@ -2,7 +2,7 @@
 # Automatically-generated file. Do not edit!
 ################################################################################
 
-#Progress monitor hint: 28
+#Progress monitor hint: 31
 first : all
 -include ../makefile.init
 
@@ -66,21 +66,21 @@ all: warning-messages explicit-dependencies SuzukiTPMSReceiverDisplayer.elf seco
 # Tool invocations
 SuzukiTPMSReceiverDisplayer.elf: $(OBJS) E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/Project_Settings/Linker_Files/SKEAZ_flash.ld $(USER_OBJS)
 	@echo 'Building target: $@'
-	@echo 'Executing target #29 $@'
+	@echo 'Executing target #32 $@'
 	@echo 'Invoking: Standard S32DS C Linker'
 	arm-none-eabi-gcc -o "SuzukiTPMSReceiverDisplayer.elf" "@SuzukiTPMSReceiverDisplayer.args"  $(USER_OBJS_QUOTED) $(LIBS_QUOTED)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
 SuzukiTPMSReceiverDisplayer.hex: $(EXECUTABLES)
-	@echo 'Executing target #30 $@'
+	@echo 'Executing target #33 $@'
 	@echo 'Invoking: Standard S32DS Create Flash Image'
 	arm-none-eabi-objcopy -O ihex $(EXECUTABLES)  "SuzukiTPMSReceiverDisplayer.hex"
 	@echo 'Finished building: $@'
 	@echo ' '
 
 SuzukiTPMSReceiverDisplayer.siz: $(EXECUTABLES)
-	@echo 'Executing target #31 $@'
+	@echo 'Executing target #34 $@'
 	@echo 'Invoking: Standard S32DS Print Size'
 	arm-none-eabi-size --format=berkeley $(EXECUTABLES)
 	@echo 'Finished building: $@'

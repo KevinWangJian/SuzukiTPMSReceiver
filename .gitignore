@@ -22,6 +22,10 @@
 *.sisc
 *.snippets
 
+*.o
+*.d
+*.hex
+*.elf
 *.obj
 *.exe
 *.pdb

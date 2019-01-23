@@ -18,7 +18,7 @@ src/APL/query.o: ../src/APL/query.c \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/core_cmInstr.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/core_cmFunc.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/system_SKEAZ1284.h \
- E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/APL/acc.h \
+ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/acc.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/HAL/gpio.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/assert.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/derivative.h \
@@ -62,7 +62,7 @@ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDispl
 
 E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/system_SKEAZ1284.h:
 
-E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/APL/acc.h:
+E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/acc.h:
 
 E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/HAL/gpio.h:
 

@@ -30,13 +30,19 @@ src/APL/init.o: ../src/APL/init.c \
  D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/null.h \
  D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/size_t.h \
  D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/ewl_rsize_t.h \
- E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/APL/acc.h \
+ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/acc.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/inputKeys.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/led.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/delayus.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/HAL/flash.h \
  E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/HAL/uart.h \
- E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/DDL/tda5235.h
+ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/DDL/tda5235.h \
+ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/common.h \
+ D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/stddef.h \
+ D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/cstddef \
+ D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/string.h \
+ D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/cstring \
+ D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/string_api.h
 
 D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/lib_c99.prefix:
 
@@ -100,7 +106,7 @@ D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include
 
 D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/ewl_rsize_t.h:
 
-E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/APL/acc.h:
+E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/acc.h:
 
 E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/MDL/inputKeys.h:
 
@@ -113,3 +119,15 @@ E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDispl
 E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/HAL/uart.h:
 
 E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/DDL/tda5235.h:
+
+E:/wangjian/project/Suzuki(ChangAn)TPMSReceiver/firmware/SuzukiTPMSReceiverDisplayer/include/common.h:
+
+D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/stddef.h:
+
+D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/cstddef:
+
+D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/string.h:
+
+D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/cstring:
+
+D:/NXP/S32\ Design\ Studio\ for\ ARM\ Version2018R1/S32DS/arm_ewl2/EWL_C/include/string_api.h:
